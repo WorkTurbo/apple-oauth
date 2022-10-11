@@ -1,7 +1,7 @@
 Package.describe({
     name: 'quave:apple-oauth',
     version: '3.0.1',
-    summary: 'OAuth2 for Sign in with Apple - fork for Aptly,
+    summary: 'OAuth2 for Sign in with Apple - fork for Aptly',
     git: 'https://github.com/quavedev/apple-oauth',
 });
 
